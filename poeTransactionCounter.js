@@ -36,7 +36,7 @@ const microtransactions = {
     // PoE2 Early Access
     "Path of Exile 2 Early Access": 30,
     "Lord of Ogham": 60,
-    "King of the Faridun": 100,
+    "King of the Faridun": 5470,
     "Thaumaturge of the Vaal": 160,
     "Warlord of the Karui": 240,
     "Liberator of Wraeclast": 480,
